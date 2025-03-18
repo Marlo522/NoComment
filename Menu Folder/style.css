@@ -227,18 +227,7 @@ button:hover{
     }
 
     nav {
-        width: 50%;
-        height: 100%;
-        position: fixed;
-        top: 75px;
-        right: -500px;
-        background: #1b3a4b;
-        text-align: center;
-        flex-direction: column;
-        padding: 10px 0;
-        border-left: 0.5px solid #000;
-        transition: 0.2s linear;
-        z-index: 900;
+        top: 75.5px;
     }
 
 
@@ -334,7 +323,7 @@ button:hover{
         font-size: 25px;
     }
     nav{
-        top: 60px;
+        top: 60.5px;
     }
 
 }
